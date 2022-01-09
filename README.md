@@ -1,4 +1,4 @@
-# HomicideClassification
+# MurdererClassification
 Predicting a victim’s relationship to their murderer
 
 In this repository, one can find the code and the dataset that we used for our predictions, along with some more interesting stats and analysis.
